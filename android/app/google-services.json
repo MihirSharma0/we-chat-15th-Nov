@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "278690622036",
+    "project_id": "we-chat-9f5c5",
+    "storage_bucket": "we-chat-9f5c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278690622036:android:9a02e00e29ffea29165bc1",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278690622036-ne9hv1m5tktj0ppi9j81rdk4vv99drr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnwxghTfHsSCIA_8Poe7Z064VVR0yMC2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278690622036-ne9hv1m5tktj0ppi9j81rdk4vv99drr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278690622036:android:00a39a09a283f457165bc1",
+        "android_client_info": {
+          "package_name": "com.wechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278690622036-30l3910sac06snodd6qoj617q2nca2a0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wechat",
+            "certificate_hash": "a907e27339d3cebdb87930df7fd23e2fca30c112"
+          }
+        },
+        {
+          "client_id": "278690622036-ne9hv1m5tktj0ppi9j81rdk4vv99drr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnwxghTfHsSCIA_8Poe7Z064VVR0yMC2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278690622036-ne9hv1m5tktj0ppi9j81rdk4vv99drr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
