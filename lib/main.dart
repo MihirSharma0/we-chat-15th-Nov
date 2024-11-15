@@ -6,8 +6,7 @@ import 'package:we_chat/auth/splash_screen.dart';
 late Size mq;
 
 void main() {
-
-  WidgetsFlutterBinding .ensureInitialized();
+  WidgetsFlutterBinding.ensureInitialized();
   SystemChrome.setEnabledSystemUIMode(SystemUiMode.immersiveSticky);
   runApp(const MyApp());
 }
@@ -32,7 +31,7 @@ class MyApp extends StatelessWidget {
               backgroundColor: Colors.white,
             )),
         home: const SplashScreen());
-        // home: const LoginScreen());
+    // home: const LoginScreen());
     // home: const HomeScreen());
   }
 }
